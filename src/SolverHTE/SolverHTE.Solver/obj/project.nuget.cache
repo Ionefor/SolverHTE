@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdTOs4hchP6y9w+niXjgc3G9iu1n3/LH98VlBC2U/qDHw8ShqChfzhpjK96s/NZbv2iR7uqCYShcABjeoegp9g==",
+  "success": true,
+  "projectFilePath": "G:\\Programming\\Csharp\\Current Projects\\SolverHTE\\src\\SolverHTE\\SolverHTE.Solver\\SolverHTE.Solver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
